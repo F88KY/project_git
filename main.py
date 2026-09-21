@@ -1,12 +1,11 @@
-print("Hello from feature branch!")
+﻿print("Hello from feature branch!")
 
 name = "Student"
 print("Hello,", name)
 
 
 def hello():
-               print("Welcome to my Git project, version A!")
-
+        print("Welcome to my awesome Git project, version A!")
 
 
 hello()
