@@ -5,7 +5,8 @@ print("Hello,", name)
 
 
 def hello():
-        print("Welcome to my Git project!")
+               print("Welcome to my Git project, version A!")
+
 
 
 hello()
