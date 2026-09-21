@@ -1,4 +1,11 @@
-print("Hello, Git!")
+﻿print("Hello, Git!")
 
 name = "Student"
-print("Привет,", william)
+print("Hello,", name)
+
+
+def hello():
+    print("Welcome to my Git project!")
+
+
+hello()
